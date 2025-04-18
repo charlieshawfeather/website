@@ -31,4 +31,10 @@
     "mode": "smart",
   },
   "upload_source_maps": true,
+  "routes": [
+    {
+      "pattern": "charlie.shaw-feather.com",
+      "custom_domain": true
+    }
+  ]
 }
